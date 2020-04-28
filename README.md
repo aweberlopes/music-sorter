@@ -1,6 +1,6 @@
 # Music Sorter
 A Small script to sort a folder of music
-!!! Working only under Windows
+**Working only under Windows**
 
 ## Usage example
 ```bash
