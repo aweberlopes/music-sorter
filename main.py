@@ -12,7 +12,7 @@ if len(sys.argv) < 2:
 
 path=sys.argv[1]
 
-logging.info("Start Musik-sorter on PATH: " + path)
+logging.info("Start musik-sorter on PATH: " + path)
 logging.info("Check for avaiable folder and files")
 
 
